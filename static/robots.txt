@@ -1,0 +1,10 @@
+# Rules for Googlebot
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+# Rules for all other bots
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.valpiccola.com/sitemap.xml

@@ -1,0 +1,2757 @@
+[
+  {
+    "from": "/it/laveno-mombello",
+    "to": "/it/paesi/laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/en/laveno-mombello",
+    "to": "/en/villages/laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/fr/laveno-mombello",
+    "to": "/fr/villages/laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/de/laveno-mombello",
+    "to": "/de/doerfer/laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/it/laveno-mombello/cosa-vedere",
+    "to": "/it/paesi/laveno-mombello/cosa-vedere",
+    "status": 302
+  },
+  {
+    "from": "/en/laveno-mombello/what-to-see",
+    "to": "/en/villages/laveno-mombello/what-to-see",
+    "status": 302
+  },
+  {
+    "from": "/fr/laveno-mombello/quoi-voir",
+    "to": "/fr/villages/laveno-mombello/quoi-voir",
+    "status": 302
+  },
+  {
+    "from": "/de/laveno-mombello/was-zu-sehen",
+    "to": "/de/doerfer/laveno-mombello/was-zu-sehen",
+    "status": 302
+  },
+  {
+    "from": "/it/laveno-mombello/cosa-vedere/museo-design-ceramico",
+    "to": "/it/paesi/laveno-mombello/cosa-vedere/museo-design-ceramico",
+    "status": 302
+  },
+  {
+    "from": "/en/laveno-mombello/what-to-see/museum-design-ceramic",
+    "to": "/en/villages/laveno-mombello/what-to-see/museum-design-ceramic",
+    "status": 302
+  },
+  {
+    "from": "/fr/laveno-mombello/quoi-voir/musee-design-ceramique",
+    "to": "/fr/villages/laveno-mombello/quoi-voir/musee-design-ceramique",
+    "status": 302
+  },
+  {
+    "from": "/de/laveno-mombello/was-zu-sehen/museum-design-keramik",
+    "to": "/de/doerfer/laveno-mombello/was-zu-sehen/museum-design-keramik",
+    "status": 302
+  },
+  {
+    "from": "/it/luino",
+    "to": "/it/paesi/luino",
+    "status": 302
+  },
+  {
+    "from": "/en/luino",
+    "to": "/en/villages/luino",
+    "status": 302
+  },
+  {
+    "from": "/fr/luino",
+    "to": "/fr/villages/luino",
+    "status": 302
+  },
+  {
+    "from": "/de/luino",
+    "to": "/de/doerfer/luino",
+    "status": 302
+  },
+  {
+    "from": "/it/luino/cosa-vedere",
+    "to": "/it/paesi/luino/cosa-vedere",
+    "status": 302
+  },
+  {
+    "from": "/en/luino/what-to-see",
+    "to": "/en/villages/luino/what-to-see",
+    "status": 302
+  },
+  {
+    "from": "/fr/luino/quoi-voir",
+    "to": "/fr/villages/luino/quoi-voir",
+    "status": 302
+  },
+  {
+    "from": "/de/luino/was-zu-sehen",
+    "to": "/de/doerfer/luino/was-zu-sehen",
+    "status": 302
+  },
+  {
+    "from": "/it/luino/street-food",
+    "to": "/it/paesi/luino/street-food",
+    "status": 302
+  },
+  {
+    "from": "/en/luino/street-food",
+    "to": "/en/villages/luino/street-food",
+    "status": 302
+  },
+  {
+    "from": "/fr/luino/street-food",
+    "to": "/fr/villages/luino/street-food",
+    "status": 302
+  },
+  {
+    "from": "/de/luino/street-food",
+    "to": "/de/doerfer/luino/street-food",
+    "status": 302
+  },
+  {
+    "from": "/it/luino/dove-mangiare",
+    "to": "/it/paesi/luino/dove-mangiare",
+    "status": 302
+  },
+  {
+    "from": "/en/luino/where-to-eat",
+    "to": "/en/villages/luino/where-to-eat",
+    "status": 302
+  },
+  {
+    "from": "/fr/luino/ou-manger",
+    "to": "/fr/villages/luino/ou-manger",
+    "status": 302
+  },
+  {
+    "from": "/de/luino/wo-essen",
+    "to": "/de/doerfer/luino/wo-essen",
+    "status": 302
+  },
+  {
+    "from": "/it/luino/cosa-vedere/biblioteca-civica-luino",
+    "to": "/it/paesi/luino/cosa-vedere/biblioteca-civica-luino",
+    "status": 302
+  },
+  {
+    "from": "/en/luino/what-to-see/public-library-luino",
+    "to": "/en/villages/luino/what-to-see/public-library-luino",
+    "status": 302
+  },
+  {
+    "from": "/fr/luino/quoi-voir/bibliotheque-luino",
+    "to": "/fr/villages/luino/quoi-voir/bibliotheque-luino",
+    "status": 302
+  },
+  {
+    "from": "/de/luino/was-zu-sehen/bibliothek-luino",
+    "to": "/de/doerfer/luino/was-zu-sehen/bibliothek-luino",
+    "status": 302
+  },
+  {
+    "from": "/it/luino/cosa-vedere/mercato-luino",
+    "to": "/it/paesi/luino/cosa-vedere/mercato-luino",
+    "status": 302
+  },
+  {
+    "from": "/en/luino/what-to-see/market-luino",
+    "to": "/en/villages/luino/what-to-see/market-luino",
+    "status": 302
+  },
+  {
+    "from": "/fr/luino/quoi-voir/marche-luino",
+    "to": "/fr/villages/luino/quoi-voir/marche-luino",
+    "status": 302
+  },
+  {
+    "from": "/de/luino/was-zu-sehen/markt-luino",
+    "to": "/de/doerfer/luino/was-zu-sehen/markt-luino",
+    "status": 302
+  },
+  {
+    "from": "/it/luino/cosa-vedere/lungolago",
+    "to": "/it/paesi/luino/cosa-vedere/lungolago",
+    "status": 302
+  },
+  {
+    "from": "/en/luino/what-to-see/lakefront",
+    "to": "/en/villages/luino/what-to-see/lakefront",
+    "status": 302
+  },
+  {
+    "from": "/fr/luino/quoi-voir/promenade-du-lac",
+    "to": "/fr/villages/luino/quoi-voir/promenade-du-lac",
+    "status": 302
+  },
+  {
+    "from": "/de/luino/was-zu-sehen/seepromenade",
+    "to": "/de/doerfer/luino/was-zu-sehen/seepromenade",
+    "status": 302
+  },
+  {
+    "from": "/it/luino/cosa-vedere/palazzo-verbania",
+    "to": "/it/paesi/luino/cosa-vedere/palazzo-verbania",
+    "status": 302
+  },
+  {
+    "from": "/en/luino/what-to-see/palazzo-verbania",
+    "to": "/en/villages/luino/what-to-see/palazzo-verbania",
+    "status": 302
+  },
+  {
+    "from": "/fr/luino/quoi-voir/palazzo-verbania",
+    "to": "/fr/villages/luino/quoi-voir/palazzo-verbania",
+    "status": 302
+  },
+  {
+    "from": "/de/luino/was-zu-sehen/palast-verbania",
+    "to": "/de/doerfer/luino/was-zu-sehen/palast-verbania",
+    "status": 302
+  },
+  {
+    "from": "/it/luino/cosa-vedere/centro-storico-luino",
+    "to": "/it/paesi/luino/cosa-vedere/centro-storico-luino",
+    "status": 302
+  },
+  {
+    "from": "/en/luino/what-to-see/historical-centre-luino",
+    "to": "/en/villages/luino/what-to-see/historical-centre-luino",
+    "status": 302
+  },
+  {
+    "from": "/fr/luino/quoi-voir/centre-historique-luino",
+    "to": "/fr/villages/luino/quoi-voir/centre-historique-luino",
+    "status": 302
+  },
+  {
+    "from": "/de/luino/was-zu-sehen/historisches-zentrum-luino",
+    "to": "/de/doerfer/luino/was-zu-sehen/historisches-zentrum-luino",
+    "status": 302
+  },
+  {
+    "from": "/it/porto-valtravaglia",
+    "to": "/it/paesi/porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/en/porto-valtravaglia",
+    "to": "/en/villages/porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/fr/porto-valtravaglia",
+    "to": "/fr/villages/porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/de/porto-valtravaglia",
+    "to": "/de/doerfer/porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/it/brezzo-di-bedero",
+    "to": "/it/paesi/brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/en/brezzo-di-bedero",
+    "to": "/en/villages/brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/fr/brezzo-di-bedero",
+    "to": "/fr/villages/brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/de/brezzo-di-bedero",
+    "to": "/de/doerfer/brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/de/villages/laveno-mombello/was-zu-sehen",
+    "to": "/de/doerfer/laveno-mombello/was-zu-sehen",
+    "status": 302
+  },
+  {
+    "from": "/de/villages/porto-valtravaglia/weihnachtsmarkte",
+    "to": "/de/doerfer/porto-valtravaglia/weihnachtsmarkte",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/monica-tende",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/monica-tende",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/monica-tende",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/monica-tende",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/mauro-shoes",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/mauro-shoes",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/mauro-shoes",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/mauro-shoes",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/gastronomia-eccellenza-qualita",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/gastronomia-eccellenza-qualita",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/gastronomia-eccellenza-qualita",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/gastronomia-eccellenza-qualita",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/lattanzi-daniele-scarpe",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/lattanzi-daniele-scarpe",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/lattanzi-daniele-scarpe",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/lattanzi-daniele-scarpe",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/articoli-casalinghi-moleri",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/articoli-casalinghi-moleri",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/articoli-casalinghi-moleri",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/articoli-casalinghi-moleri",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/azienda-agricola-la-betulla",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/azienda-agricola-la-betulla",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/azienda-agricola-la-betulla",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/azienda-agricola-la-betulla",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/calzavara-calzature",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/calzavara-calzature",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/calzavara-calzature",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/calzavara-calzature",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/pastificio-marianna",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/pastificio-marianna",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/pastificio-marianna",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/pastificio-marianna",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/apicoltura-le-ginestre",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/apicoltura-le-ginestre",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/apicoltura-le-ginestre",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/apicoltura-le-ginestre",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/dolce-smeraldo",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/dolce-smeraldo",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/dolce-smeraldo",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/dolce-smeraldo",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/la-casa-dell-ulivo",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/la-casa-dell-ulivo",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/la-casa-dell-ulivo",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/la-casa-dell-ulivo",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/ittica-casarotti",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/ittica-casarotti",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/ittica-casarotti",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/ittica-casarotti",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/la-rosticceria-italiana",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/la-rosticceria-italiana",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/la-rosticceria-italiana",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/la-rosticceria-italiana",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/apicoltura-sorriso",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/apicoltura-sorriso",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/apicoltura-sorriso",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/apicoltura-sorriso",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/gioielli-mohamed",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/gioielli-mohamed",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/gioielli-mohamed",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/gioielli-mohamed",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/schon-abbigliamento",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/schon-abbigliamento",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/schon-abbigliamento",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/schon-abbigliamento",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/7030-accessori",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/7030-accessori",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/7030-accessori",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/7030-accessori",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/b2b/zanarella-ornitologia",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/b2b/zanarella-ornitologia",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/b2b/zanarella-ornitologia",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/b2b/zanarella-ornitologia",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/fr/blog/les-marches-du-lac-maggiore-un-voyage-avec-google-trends",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/fr/blog/ce-que-valpiccola-a-appris-en-resolvant-un-grave-bogue-sur-le-site",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/fr/blog/programmation-en-binome",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/de/blog/paarweise-arbeit",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/de/blog/die-markte-am-lago-maggiore-eine-reise-mit-google-trends",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/de/blog/was-valpiccola-bei-der-behebung-eines-fehlers-gelernt-hat",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/blog/the-markets-of-the-lake-major-a-trends-with-google-trends",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/en/blog/pair-programming",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/en/blog/what-valpiccola-learnt-from-fixing-a-serious-bug-on-the-site",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/it/blog/i-mercati-del-lago-maggiore-un-viaggio-con-google-trends",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/it/blog/lavoro-in-coppia",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/it/blog/cosa-valpiccola-ha-imparato-risolvendo-un-grave-bug-sul-sito",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/it/esperienza/volo-sul-lago-maggiore-in-deltaplano",
+    "to": "/it/esperienze/volo-sul-lago-maggiore-in-deltaplano",
+    "status": 302
+  },
+  {
+    "from": "/it/esperienza/aperitivo-al-tramonto-sul-lago-maggiore-in-barca-a-vela-con-musica",
+    "to": "/it/esperienze/aperitivo-al-tramonto-sul-lago-maggiore-in-barca-a-vela-con-musica",
+    "status": 302
+  },
+  {
+    "from": "/it/esperienza/monteviasco-cena-preparazione-condivisa-pernottamento-e-colazione-in-ambiente-rurale",
+    "to": "/it/esperienze/monteviasco-cena-preparazione-condivisa-pernottamento-e-colazione-in-ambiente-rurale",
+    "status": 302
+  },
+  {
+    "from": "/it/esperienza/crociera-tra-le-isole-del-lago-maggiore-in-barca-a-vela",
+    "to": "/it/esperienze/crociera-tra-le-isole-del-lago-maggiore-in-barca-a-vela",
+    "status": 302
+  },
+  {
+    "from": "/it/esperienza/esplorazione-lago-maggiore-con-canoa-canadese",
+    "to": "/it/esperienze/esplorazione-lago-maggiore-con-canoa-canadese",
+    "status": 302
+  },
+  {
+    "from": "/it/esperienze",
+    "to": "/it/lago-maggiore/esperienze",
+    "status": 302
+  },
+  {
+    "from": "/it/partner/pollo-lake-experience",
+    "to": "/it/lago-maggiore/esperienze",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/volo-sul-lago-maggiore-in-deltaplano",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/flug-auf-dem-maggioresee-im-drachengleiten",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/flight-on-lake-maggiore-in-hang-gliding",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/experiences/vol-sur-le-lac-majeur-en-deltaplane",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/crociera-tra-le-isole-del-lago-maggiore-in-barca-a-vela",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/kreuzfahrt-zwischen-den-inseln-des-maggiore-sees-auf-einem-segelboot",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/cruise-among-the-islands-of-lake-maggiore-on-a-sailing-boat",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/croisière-parmi-les-îles-du-lac-majeur-sur-un-voilier",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/crociera-turistica-tra-le-isole-borromee-sul-lago-maggiore",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/touristische-kreuzfahrt-zwischen-den-borromäischen-inseln-am-maggioresee",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/tourist-cruise-among-the-borromean-islands-on-lake-maggiore",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/croisière-touristique-parmi-les-iles-borromées-sur-le-lac-majeur",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/escursione-3-giorni-a-remi-sul-lago-maggiore",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/3-tages-ausflug-nach-remise-am-lago-maggiore",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/3-day-rowing-adventures-on-lake-maggiore",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/excursion-de-3-jours-à-remi-sur-le-lac-major",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/mountain-bike-tour-e-pranzo-agriturismo-val-veddasca-sul-lago-maggiore",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/mountainbike-tour-und-mittagessen-bauernhof-val-veddasca-am-maggiore-see",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/mountain-bike-tour-and-lunch-farmhouse-val-veddasca-on-lake-maggiore",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/visite-en-mountain-bike-et-dejeuner-ferme-val-veddasca-sur-le-lac-majeur",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/esplorazione-lago-maggiore-con-catamarano-a-vela",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/erkundung-lago-maggiore-mit-segelkatamaran",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/exploration-lake-maggiore-with-sailing-catamaran",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/exploration-du-lac-majeur-avec-catamaran-à-voile",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/lezione-di-cucina-italiana-lago-maggiore",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/kochunterricht-italienischer-see-bürgermeister",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/cooking-lesson-of-italian-recipes-on-lake-maggiore",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/leçon-de-cuisine-italienne-au-lac-major",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/passeggiata-a-cavallo-e-assapora-sapori-locali-tra-i-boschi-del-lago-maggiore",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/da-cannobio-al-mercato-di-luino-del-mercoledi",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/von-cannobio-bis-zum-luino-markt-am-mittwoch",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/from-cannobio-to-the-luino-market-on-wednesday",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/de-cannobio-au-marché-luino-le-mercredi",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/corso-e-degustazione-pizza-lago-maggiore",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/kurs-und-verkostung-pizza-lago-maggiore",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/course-and-tasting-pizza-lake-maggiore",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/cours-et-dégustation-pizza-lac-mayor",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/introduzione-al-volo-deltaplano-con-pratica-teorica-e-volo-biposto-seguiti-da-istruttori-professionisti",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/einführung-in-den-drachenflug-mit-theoretischer-praxis-und-sitzendem-flug-mit-professionellen-ausbildern",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/introduction-to-hang-gliding-with-practice-and-theory-and-flying-two-seater-with-professional-instructors",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/introduction-au-deltaplane-avec-pratique-théorique-et-vol-assis-suivi-par-des-instructeurs-professionnels",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/crociera-tra-le-isole",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/aperitivo-al-tramonto-sul-lago-maggiore-in-barca-a-vela-con-musica",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/aperitif-bei-sonnenuntergang-am-maggioresee-auf-einem-segelboot-mit-musik",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/aperitif-at-sunset-on-lake-maggiore-on-a-sailing-boat-with-music",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/apéritif-au-coucher-de-soleil-sur-le-lac-majeur-sur-un-voilier-avec-musique",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/crociera-al-tramonto-tra-le-isole-borromee-sul-lago-maggiore",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/sonnenuntergangskreuzfahrt-zwischen-den-borromäischen-inseln-auf-dem-maggiore-see",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/sunset-cruise-among-the-borromean-islands-on-lake-maggiore",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/croisière-au-coucher-de-soleil-parmi-les-îles-borromées-sur-le-lac-majeur",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/monteviasco-cena-preparazione-condivisa-pernottamento-e-colazione-in-ambiente-rurale",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/monteviasco-abendessen-uebernachtung-und-fruehstück-in-ländlicher-umgebung",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/monteviasco-dinner-night-and-breakfast-in-rural-environment",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/monteviasco-dîner-préparation-partagée-nuit-chambre-et-petit-déjeuner-en-environnement-rural",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/tour-hop-on-hop-off-isole-borromee-da-stresa",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/tour-hop-on-hop-off-borromäische-inseln-von-stresa",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/tour-hop-on-hop-off-borromean-islands-from-stresa",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/tour-hop-on-hop-off-iles-borromées-depuis-stresa",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/taxi-boat-da-cannobio-e-tour-isole-borromee",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/taxi-boot-von-cannobio-und-tour-borromäische-inseln",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/taxi-boat-from-cannobio-and-tour-borromean-islands",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/bateau-taxi-depuis-cannobio-et-tour-des-iles-borromées",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze/esplorazione-santa-caterina-sul-lago-maggiore-con-canoa-canadese",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse/erkunden-santa-caterina-am-see-mit-kanu-kanadier",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences/exploration-santa-caterina-on-the-lake-major-with-canoe-canadian",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences/explorer-santa-caterina-sur-le-lac-majeur-avec-canoe-canadien",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/produkte/besondereauswahl-kaffee-the-blend-post",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/products/special-selections-coffee-the-blend-post",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/produits/sélections-spéciales-café-the-blend-post",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/prodotti/miele-biologico-acacia-castagno-millefiori-azienda-agricola-le-ginestre",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/produkte/honig-bio-akazie-castagno-millefiori-landwirtschaftsbetrieb-le-ginestre",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/products/honey-organic-acacia-castagno-millefiori-agricultural-farm-le-ginestre",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/produits/miel-organique-acacia-castagno-millefiori-agricole-ferme-le-ginestre",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/esperienze",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/experiences",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/experiences",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/erlebnisse",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/guide-ed-accompagnatori-turistici",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/reiseführer-und-reisebegleiter",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/tourist-guides-and-tour-leaders",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lago-maggiore/guides-et-tour-escortes",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/numeri-e-statistiche",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/zahlen-und-statistik",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/fr/nombre-et-statistiques",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/numbers-and-statistics",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/it/partners",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/en/partners",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/partners",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/de/partners",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/luino/cosa-vedere/mercato-luino",
+    "to": "/it/lago-maggiore/mercati/mercato-luino",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/luino/was-zu-sehen/markt-luino",
+    "to": "/de/lago-maggiore/märkte/markt-luino",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/luino/quoi-voir/marche-luino",
+    "to": "/fr/lac-maggiore/marchés/marche-luino",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/luino/what-to-see/market-luino",
+    "to": "/en/lake-maggiore/markets/market-luino",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/cannobio/mercato-cannobio",
+    "to": "/it/lago-maggiore/mercati/mercato-cannobio",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/cannobio/markt-cannobio",
+    "to": "/de/lago-maggiore/märkte/markt-cannobio",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/cannobio/marche-cannobio",
+    "to": "/fr/lac-maggiore/marchés/marche-cannobio",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/cannobio/market-cannobio",
+    "to": "/en/lake-maggiore/markets/market-cannobio",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/verbania/mercato-intra",
+    "to": "/it/lago-maggiore/mercati/mercato-intra",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/verbania/markt-intra",
+    "to": "/de/lago-maggiore/märkte/markt-intra",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/verbania/marche-intra",
+    "to": "/fr/lac-maggiore/marchés/marche-intra",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/verbania/market-intra",
+    "to": "/en/lake-maggiore/markets/market-intra",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/luino",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/luino",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/luino",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/luino",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/luino/cosa-fare",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/luino/quoi-faire",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/luino/what-to-do",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/luino/was-zu-sehen",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/luino/cosa-vedere/centro-storico-luino",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/luino/quoi-voir/centre-historique-luino",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/luino/what-to-see/historical-centre-luino",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/luino/was-zu-sehen/historisches-zentrum-luino",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/luino/cosa-vedere/lungolago",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/luino/what-to-see/lakefront",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/luino/quoi-voir/promenade-du-lac",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/luino/was-zu-sehen/seepromenade",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/luino/cosa-vedere/biblioteca-civica-luino",
+    "to": "/it/lago-maggiore/biblioteca-civica-luino",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/luino/what-to-see/public-library-luino",
+    "to": "/en/lake-maggiore/public-library-luino",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/luino/was-zu-sehen/bibliothek-luino",
+    "to": "/de/lago-maggiore/bibliothek-luino",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/luino/quoi-voir/bibliotheque-luino",
+    "to": "/fr/lac-maggiore/bibliotheque-luino",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/luino/cosa-vedere/palazzo-verbania",
+    "to": "/it/lago-maggiore/palazzo-verbania-luino",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/luino/what-to-see/palazzo-verbania",
+    "to": "/en/lake-maggiore/palazzo-verbania-luino",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/luino/was-zu-sehen/palast-verbania",
+    "to": "/de/lago-maggiore/palast-verbania-luino",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/luino/quoi-voir/palazzo-verbania",
+    "to": "/fr/lac-maggiore/palazzo-verbania-luino",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/verbania",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/verbania",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/verbania",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/verbania",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/verbania/giardini-botanici-di-villa-taranto",
+    "to": "/it/lago-maggiore/giardini-botanici-di-villa-taranto-verbania",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/verbania/botanical-gardens-of-villa-taranto",
+    "to": "/en/lake-maggiore/botanical-gardens-of-villa-taranto-verbania",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/verbania/villa-taranto-botanischer-garten",
+    "to": "/de/lago-maggiore/villa-taranto-botanischer-garten-verbania",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/verbania/jardins-botaniques-de-villa-taranto",
+    "to": "/fr/lac-maggiore/jardins-botaniques-de-villa-taranto-verbania",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/stresa/villa-e-parco-pallavicino",
+    "to": "/en/lake-maggiore/villa-and-park-pallavicino-stresa",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/stresa/villa-e-parco-pallavicino",
+    "to": "/fr/lac-maggiore/villa-and-park-pallavicino-stresa",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/stresa/villa-e-parco-pallavicino",
+    "to": "/de/lago-maggiore/villa-and-park-pallavicino-stresa",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/stresa/villa-e-parco-pallavicino",
+    "to": "/it/lago-maggiore/villa-e-parco-pallavicino-stresa",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/stresa",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/stresa",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/stresa",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/stresa",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/angera/rocca-di-angera",
+    "to": "/it/lago-maggiore/rocca-di-angera",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/angera/rocca-di-angera",
+    "to": "/en/lake-maggiore/rocca-di-angera",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/angera/rocca-di-angera",
+    "to": "/de/lago-maggiore/rocca-di-angera",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/angera/rocca-di-angera",
+    "to": "/fr/lac-maggiore/rocca-di-angera",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/angera",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/angera",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/angera",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/angera",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/cannero-riviera/castelli-di-cannero",
+    "to": "/it/lago-maggiore/castelli-di-cannero",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/cannero-riviera/castelli-di-cannero",
+    "to": "/en/lake-maggiore/castelli-di-cannero",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/cannero-riviera/castelli-di-cannero",
+    "to": "/de/lago-maggiore/castelli-di-cannero",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/cannero-riviera/castelli-di-cannero",
+    "to": "/fr/lac-maggiore/castelli-di-cannero",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/cannero-riviera",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/cannero-riviera",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/cannero-riviera",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/cannero-riviera",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/laveno-mombello",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/laveno-mombello",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/laveno-mombello",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/laveno-mombello",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/laveno-mombello/cosa-vedere",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/laveno-mombello/quoi-voir",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/laveno-mombello/what-to-see",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/laveno-mombello/was-zu-sehen",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/laveno-mombello/cosa-vedere/funivia-lago-maggiore",
+    "to": "/it/lago-maggiore/funivia-lago-maggiore",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/laveno-mombello/what-to-see/cable-car-lake-maggiore",
+    "to": "/en/lake-maggiore/cable-car-lake-maggiore",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/laveno-mombello/was-zu-sehen/seilbahn-lago-maggiore",
+    "to": "/de/lago-maggiore/seilbahn-lago-maggiore",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/laveno-mombello/quoi-voir/telepherique-lac-majeur",
+    "to": "/fr/lac-maggiore/telepherique-lac-majeur",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/laveno-mombello/cosa-vedere/biblioteca-civica-laveno",
+    "to": "/it/lago-maggiore/biblioteca-civica-laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/laveno-mombello/what-to-see/public-library-laveno",
+    "to": "/en/lake-maggiore/public-library-laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/laveno-mombello/was-zu-sehen/bibliothek-laveno",
+    "to": "/de/lago-maggiore/bibliothek-laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/laveno-mombello/quoi-voir/bibliotheque-laveno-mombello",
+    "to": "/fr/lac-maggiore/bibliotheque-laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/laveno-mombello/cosa-vedere/museo-design-ceramico",
+    "to": "/it/lago-maggiore/museo-design-ceramico-laveno",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/laveno-mombello/what-to-see/museum-design-ceramic",
+    "to": "/en/lake-maggiore/museum-design-ceramic-laveno",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/laveno-mombello/was-zu-sehen/museum-design-keramik",
+    "to": "/de/lago-maggiore/museum-design-keramik-laveno",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/laveno-mombello/quoi-voir/musee-design-ceramique",
+    "to": "/fr/lac-maggiore/musee-design-ceramique-laveno",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/leggiuno/santa-caterina-del-sasso",
+    "to": "/it/lago-maggiore/santa-caterina-del-sasso-leggiuno",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/leggiuno/santa-caterina-del-sasso",
+    "to": "/en/lake-maggiore/santa-caterina-del-sasso-leggiuno",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/leggiuno/santa-caterina-del-sasso",
+    "to": "/de/lago-maggiore/santa-caterina-del-sasso-leggiuno",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/leggiuno/santa-caterina-del-sasso",
+    "to": "/fr/lac-maggiore/santa-caterina-del-sasso-leggiuno",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/leggiuno",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/leggiuno",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/leggiuno",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/leggiuno",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/ispra/passeggiata-dell-amore",
+    "to": "/it/lago-maggiore/passeggiata-dell-amore-ispra",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/ispra/passeggiata-dell-amore",
+    "to": "/en/lake-maggiore/passeggiata-dell-amore-ispra",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/ispra/passeggiata-dell-amore",
+    "to": "/de/lago-maggiore/passeggiata-dell-amore-ispra",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/ispra/passeggiata-dell-amore",
+    "to": "/fr/lac-maggiore/passeggiata-dell-amore-ispra",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/ispra",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/ispra",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/ispra",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/ispra",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/porto-valtravaglia/alpe-san-michele",
+    "to": "/it/lago-maggiore/alpe-san-michele-porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/porto-valtravaglia/alpe-san-michele",
+    "to": "/en/lake-maggiore/alpe-san-michele-porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/porto-valtravaglia/alpe-san-michele",
+    "to": "/de/lago-maggiore/alpe-san-michele-porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/porto-valtravaglia/alpe-san-michele",
+    "to": "/fr/lac-maggiore/alpe-san-michele-porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/porto-valtravaglia",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/porto-valtravaglia",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/porto-valtravaglia",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/porto-valtravaglia",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/brezzo-di-bedero/canonica",
+    "to": "/it/lago-maggiore/canonica-brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/brezzo-di-bedero/canonica",
+    "to": "/en/lake-maggiore/canonica-brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/brezzo-di-bedero/canonica",
+    "to": "/de/lago-maggiore/canonica-brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/brezzo-di-bedero/canonica",
+    "to": "/fr/lac-maggiore/canonica-brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/brezzo-di-bedero",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/brezzo-di-bedero",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/brezzo-di-bedero",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/brezzo-di-bedero",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/ranco/parco-del-golfo-della-quassa",
+    "to": "/it/lago-maggiore/parco-del-golfo-della-quassa-ranco",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/ranco/parco-del-golfo-della-quassa",
+    "to": "/en/lake-maggiore/parco-del-golfo-della-quassa-ranco",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/ranco/parco-del-golfo-della-quassa",
+    "to": "/de/lago-maggiore/parco-del-golfo-della-quassa-ranco",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/ranco/parco-del-golfo-della-quassa",
+    "to": "/fr/lac-maggiore/parco-del-golfo-della-quassa-ranco",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/ranco",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/ranco",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/ranco",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/ranco",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/curiglia-con-monteviasco/monteviasco",
+    "to": "/it/lago-maggiore/monteviasco-curiglia",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/curiglia-con-monteviasco/monteviasco",
+    "to": "/en/lake-maggiore/monteviasco-curiglia",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/curiglia-con-monteviasco/monteviasco",
+    "to": "/de/lago-maggiore/monteviasco-curiglia",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/curiglia-con-monteviasco/monteviasco",
+    "to": "/fr/lac-maggiore/monteviasco-curiglia",
+    "status": 302
+  },
+  {
+    "from": "/en/lago-maggiore/christmas",
+    "to": "/en/lake-maggiore/christmas",
+    "status": 302
+  },
+  {
+    "from": "/fr/lago-maggiore/noel",
+    "to": "/fr/lac-maggiore/noel",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/leggiuno/lucine-di-natale",
+    "to": "/it/lago-maggiore/natale/lucine-di-natale-leggiuno",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/leggiuno/christmas-lights",
+    "to": "/en/lake-maggiore/christmas/christmas-lights-leggiuno",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/leggiuno/weihnachtsbeleuchtung",
+    "to": "/de/lago-maggiore/weihnachten/weihnachtsbeleuchtung-leggiuno",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/leggiuno/lumieres-de-noel",
+    "to": "/fr/lac-maggiore/noel/lumieres-de-noel-leggiuno",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/laveno-mombello/presepe-sommerso",
+    "to": "/it/lago-maggiore/natale/presepe-sommerso-laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/laveno-mombello/underwater-crib",
+    "to": "/en/lake-maggiore/christmas/underwater-crib-laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/laveno-mombello/unterwasser-krippen",
+    "to": "/de/lago-maggiore/weihnachten/unterwasser-krippen-laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/laveno-mombello/creche-sous-marine",
+    "to": "/fr/lac-maggiore/noel/creche-sous-marine-laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/brezzo-di-bedero/presepe-vivente",
+    "to": "/it/lago-maggiore/natale/presepe-vivente-brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/brezzo-di-bedero/living-nativity-scene",
+    "to": "/en/lake-maggiore/christmas/living-nativity-scene-brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/brezzo-di-bedero/lebende-krippe",
+    "to": "/de/lago-maggiore/weihnachten/lebende-krippe-brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/brezzo-di-bedero/creche-vivante",
+    "to": "/fr/lac-maggiore/noel/creche-vivante-brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/porto-valtravaglia/mercatini-di-natale",
+    "to": "/it/lago-maggiore/natale/mercatini-di-natale-porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/porto-valtravaglia/christmas-markets",
+    "to": "/en/lake-maggiore/christmas/christmas-markets-porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/porto-valtravaglia/weihnachtsmarkte",
+    "to": "/de/lago-maggiore/weihnachten/weihnachtsmarkte-porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/porto-valtravaglia/marches-de-noel",
+    "to": "/fr/lac-maggiore/noel/marches-de-noel-porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/it/paesi/luino/bibliovillaggio-di-natale",
+    "to": "/it/lago-maggiore/natale/bibliovillaggio-di-natale-luino",
+    "status": 302
+  },
+  {
+    "from": "/en/villages/luino/bibliovillaggio-of-christmas",
+    "to": "/en/lake-maggiore/christmas/bibliovillaggio-of-christmas-luino",
+    "status": 302
+  },
+  {
+    "from": "/de/doerfer/luino/bibliovillaggio-weihnachten",
+    "to": "/de/lago-maggiore/weihnachten/bibliovillaggio-weihnachten-luino",
+    "status": 302
+  },
+  {
+    "from": "/fr/villages/luino/bibliovillaggio-de-noel",
+    "to": "/fr/lac-maggiore/noel/bibliovillaggio-de-noel-luino",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/guide-navigation-lake-maggiore-with-map-and-timetables-designed-by-valpiccola",
+    "to": "/en/lake-maggiore/products/lake-maggiore/guide-navigation-lake-maggiore-with-map-and-timetables-designed-by-valpiccola",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/guide-navigation-see-maggiore-mit-karte-und-fahrplänen-entworfen-von-valpiccola",
+    "to": "/de/lago-maggiore/produkte/lago-maggiore/guide-navigation-see-maggiore-mit-karte-und-fahrplänen-entworfen-von-valpiccola",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/navigation-guide-lago-maggiore-avec-carte-et-orars-réalisés-par-valpiccola",
+    "to": "/fr/lac-maggiore/produits/lac-maggiore/navigation-guide-lago-maggiore-avec-carte-et-orars-réalisés-par-valpiccola",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/canonica-brezzo-di-bedero",
+    "to": "/it/lago-maggiore/attrazioni/canonica-brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/canonica-brezzo-di-bedero",
+    "to": "/en/lake-maggiore/attractions/canonica-brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/canonica-brezzo-di-bedero",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/canonica-brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/canonica-brezzo-di-bedero",
+    "to": "/fr/lac-majeur/attractions/canonica-brezzo-di-bedero",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/rocca-di-angera",
+    "to": "/it/lago-maggiore/attrazioni/rocca-di-angera",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/rocca-di-angera",
+    "to": "/en/lake-maggiore/attractions/rocca-di-angera",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/rocca-di-angera",
+    "to": "/fr/lac-majeur/attractions/rocca-di-angera",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/rocca-di-angera",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/rocca-di-angera",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/funivia-lago-maggiore",
+    "to": "/it/lago-maggiore/attrazioni/funivia-lago-maggiore",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/cable-car-lake-maggiore",
+    "to": "/en/lake-maggiore/attractions/cable-car-lake-maggiore",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/seilbahn-lago-maggiore",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/seilbahn-lago-maggiore",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/telepherique-lac-majeur",
+    "to": "/fr/lac-majeur/attractions/telepherique-lac-majeur",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/giardini-botanici-di-villa-taranto-verbania",
+    "to": "/it/lago-maggiore/attrazioni/giardini-botanici-di-villa-taranto-verbania",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/botanical-gardens-of-villa-taranto-verbania",
+    "to": "/en/lake-maggiore/attractions/botanical-gardens-of-villa-taranto-verbania",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/villa-taranto-botanischer-garten-verbania",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/villa-taranto-botanischer-garten-verbania",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/jardins-botaniques-de-villa-taranto-verbania",
+    "to": "/fr/lac-majeur/attractions/jardins-botaniques-de-villa-taranto-verbania",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/biblioteca-civica-luino",
+    "to": "/it/lago-maggiore/attrazioni/biblioteca-civica-luino",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/bibliothek-luino",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/bibliothek-luino",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/public-library-luino",
+    "to": "/en/lake-maggiore/attractions/public-library-luino",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/bibliotheque-luino",
+    "to": "/fr/lac-majeur/attractions/bibliotheque-luino",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/passeggiata-dell-amore-ispra",
+    "to": "/it/lago-maggiore/attrazioni/passeggiata-dell-amore-ispra",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/passeggiata-dell-amore-ispra",
+    "to": "/en/lake-maggiore/attractions/passeggiata-dell-amore-ispra",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/passeggiata-dell-amore-ispra",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/passeggiata-dell-amore-ispra",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/passeggiata-dell-amore-ispra",
+    "to": "/fr/lac-majeur/attractions/passeggiata-dell-amore-ispra",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/santa-caterina-del-sasso-leggiuno",
+    "to": "/it/lago-maggiore/attrazioni/santa-caterina-del-sasso-leggiuno",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/santa-caterina-del-sasso-leggiuno",
+    "to": "/en/lake-maggiore/attractions/santa-caterina-del-sasso-leggiuno",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/santa-caterina-del-sasso-leggiuno",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/santa-caterina-del-sasso-leggiuno",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/santa-caterina-del-sasso-leggiuno",
+    "to": "/fr/lac-majeur/attractions/santa-caterina-del-sasso-leggiuno",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/isola-madre",
+    "to": "/it/lago-maggiore/attrazioni/isola-madre",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/isola-madre",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/isola-madre",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/isola-madre",
+    "to": "/en/lake-maggiore/attractions/isola-madre",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/isola-madre",
+    "to": "/fr/lac-majeur/attractions/isola-madre",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/villa-e-parco-pallavicino-stresa",
+    "to": "/it/lago-maggiore/attrazioni/villa-e-parco-pallavicino-stresa",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/villa-and-park-pallavicino-stresa",
+    "to": "/en/lake-maggiore/attractions/villa-and-park-pallavicino-stresa",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/villa-and-park-pallavicino-stresa",
+    "to": "/fr/lac-majeur/attractions/villa-and-park-pallavicino-stresa",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/villa-and-park-pallavicino-stresa",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/villa-and-park-pallavicino-stresa",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/monteviasco-curiglia",
+    "to": "/it/lago-maggiore/attrazioni/monteviasco-curiglia",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/monteviasco-curiglia",
+    "to": "/en/lake-maggiore/attractions/monteviasco-curiglia",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/monteviasco-curiglia",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/monteviasco-curiglia",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/monteviasco-curiglia",
+    "to": "/fr/lac-majeur/attractions/monteviasco-curiglia",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/museo-design-ceramico-laveno",
+    "to": "/it/lago-maggiore/attrazioni/museo-design-ceramico-laveno",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/museum-design-keramik-laveno",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/museum-design-keramik-laveno",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/museum-design-ceramic-laveno",
+    "to": "/en/lake-maggiore/attractions/museum-design-ceramic-laveno",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/musee-design-ceramique-laveno",
+    "to": "/fr/lac-majeur/attractions/musee-design-ceramique-laveno",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/alpe-san-michele-porto-valtravaglia",
+    "to": "/it/lago-maggiore/attrazioni/alpe-san-michele-porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/alpe-san-michele-porto-valtravaglia",
+    "to": "/en/lake-maggiore/attractions/alpe-san-michele-porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/alpe-san-michele-porto-valtravaglia",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/alpe-san-michele-porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/alpe-san-michele-porto-valtravaglia",
+    "to": "/fr/lac-majeur/attractions/alpe-san-michele-porto-valtravaglia",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/palazzo-verbania-luino",
+    "to": "/it/lago-maggiore/attrazioni/palazzo-verbania-luino",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/palast-verbania-luino",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/palast-verbania-luino",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/palazzo-verbania-luino",
+    "to": "/en/lake-maggiore/attractions/palazzo-verbania-luino",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/palazzo-verbania-luino",
+    "to": "/fr/lac-majeur/attractions/palazzo-verbania-luino",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/biblioteca-civica-laveno-mombello",
+    "to": "/it/lago-maggiore/attrazioni/biblioteca-civica-laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/public-library-laveno-mombello",
+    "to": "/en/lake-maggiore/attractions/public-library-laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/bibliothek-laveno-mombello",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/bibliothek-laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/bibliotheque-laveno-mombello",
+    "to": "/fr/lac-majeur/attractions/bibliotheque-laveno-mombello",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/parco-del-golfo-della-quassa-ranco",
+    "to": "/it/lago-maggiore/attrazioni/parco-del-golfo-della-quassa-ranco",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/parco-del-golfo-della-quassa-ranco",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/parco-del-golfo-della-quassa-ranco",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/parco-del-golfo-della-quassa-ranco",
+    "to": "/fr/lac-majeur/attractions/parco-del-golfo-della-quassa-ranco",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/parco-del-golfo-della-quassa-ranco",
+    "to": "/en/lake-maggiore/attractions/parco-del-golfo-della-quassa-ranco",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/castelli-di-cannero",
+    "to": "/it/lago-maggiore/attrazioni/castelli-di-cannero",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/castelli-di-cannero",
+    "to": "/en/lake-maggiore/attractions/castelli-di-cannero",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/castelli-di-cannero",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/castelli-di-cannero",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/castelli-di-cannero",
+    "to": "/fr/lac-majeur/attractions/castelli-di-cannero",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/isole-borromee",
+    "to": "/it/lago-maggiore/attrazioni/isole-borromee",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/isole-borromee",
+    "to": "/en/lake-maggiore/attractions/isole-borromee",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/isole-borromee",
+    "to": "/fr/lac-majeur/attractions/isole-borromee",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/isole-borromee",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten/isole-borromee",
+    "status": 302
+  },
+  {
+    "from": "/it/autori/roberto",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/en/authors/roberto",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/autoren/roberto",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/fr/auteurs/roberto",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/autori/vanessa",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/en/authors/vanessa",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/autoren/vanessa",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/fr/auteurs/vanessa",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/autori/monica",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/en/authors/monica",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/de/autoren/monica",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/fr/auteurs/monica",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-di-garda/prodotti/guida-navigazione-lago-di-garda-con-mappa-ed-orari-realizzata-da-valpiccola",
+    "to": "/it/lago-di-garda/navigazione",
+    "status": 302
+  },
+  {
+    "from": "/de/gardasee/produkte/guide-navigation-gardasee-mit-karte-und-fahrplänen-entworfen-von-valpiccola",
+    "to": "/de/gardasee/schifffahrt",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-garda/products/navigation-guide-lake-garda-with-map-and-timetables-created-by-valpiccola",
+    "to": "/en/lake-garda/navigation",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-de-garda/produits/guide-de-navigation-lac-de-garde-avec-carte-et-horaires-créé-par-valpiccola",
+    "to": "/fr/lac-de-garda/navigation",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-di-garda/prodotti/guida-completa-parcheggi-lago-di-garda",
+    "to": "/it/lago-di-garda/guida-completa-parcheggi-lago-di-garda",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-di-garda/parcheggi-lago-di-garda",
+    "to": "/it/lago-di-garda/guida-completa-parcheggi-lago-di-garda",
+    "status": 302
+  },
+  {
+    "from": "/de/gardasee/produkte/kompletter-reiseverlag-parken-gardasee",
+    "to": "/de/gardasee/kompletter-reiseverlag-parken-gardasee",
+    "status": 302
+  },
+  {
+    "from": "/de/gardasee/parkplatz-gardasee",
+    "to": "/de/gardasee/kompletter-reiseverlag-parken-gardasee",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-garda/products/complete-guide-parking-lake-gardaa",
+    "to": "/en/lake-garda/complete-guide-parking-lake-garda",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-garda/parking-lake-garda",
+    "to": "/en/lake-garda/complete-guide-parking-lake-garda",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-de-garda/produits/guide-complet-parking-lac-de-garde",
+    "to": "/fr/lac-de-garda/guide-complet-parking-lac-de-garde",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-de-garda/parking-lac-de-garde",
+    "to": "/fr/lac-de-garda/guide-complet-parking-lac-de-garde",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/prodotti/guida-migliori-spiagge-lago-maggiore-con-mappa-e-recensioni",
+    "to": "/it/lago-maggiore/guida-migliori-spiagge-lago-maggiore-con-mappa-e-recensioni",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/spiagge",
+    "to": "/it/lago-maggiore/guida-migliori-spiagge-lago-maggiore-con-mappa-e-recensioni",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/produkte/führer-der-besten-strände-am-lago-maggiore-mit-karten-und-bewertungen",
+    "to": "/de/lago-maggiore/führer-der-besten-strände-am-lago-maggiore-mit-karten-und-bewertungen",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/straende",
+    "to": "/de/lago-maggiore/führer-der-besten-strände-am-lago-maggiore-mit-karten-und-bewertungen",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/products/guide-best-beaches-lake-maggiore-with-map-and-reviews",
+    "to": "/en/lake-maggiore/guide-best-beaches-lake-maggiore-with-map-and-reviews",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/beaches",
+    "to": "/en/lake-maggiore/guide-best-beaches-lake-maggiore-with-map-and-reviews",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/produits/guide-des-meilleures-plages-du-lac-majeur-avec-carte-et-revues",
+    "to": "/fr/lac-maggiore/guide-des-meilleures-plages-du-lac-majeur-avec-carte-et-revues",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/plages",
+    "to": "/fr/lac-maggiore/guide-des-meilleures-plages-du-lac-majeur-avec-carte-et-revues",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/prodotti/guida-mercato-di-luino-con-mappa-e-consigli-utili",
+    "to": "/it/lago-maggiore/mercati/guida-mercato-di-luino-con-mappa-e-consigli-utili",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/mercati/mercato-luino",
+    "to": "/it/lago-maggiore/mercati/guida-mercato-di-luino-con-mappa-e-consigli-utili",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/produkte/leitfaden-zum-luino-markt-mit-karte-und-nützlichen-ratschlägen",
+    "to": "/de/lago-maggiore/märkte/leitfaden-zum-luino-markt-mit-karte-und-nützlichen-ratschlägen",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/märkte/markt-luino",
+    "to": "/de/lago-maggiore/märkte/leitfaden-zum-luino-markt-mit-karte-und-nützlichen-ratschlägen",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/products/luino-market-guide-with-map-and-useful-tips",
+    "to": "/en/lake-maggiore/markets/luino-market-guide-with-map-and-useful-tips",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/markets/market-luino",
+    "to": "/en/lake-maggiore/markets/luino-market-guide-with-map-and-useful-tips",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/produits/guide-du-marché-luino-avec-carte-et-conseils-utiles",
+    "to": "/fr/lac-maggiore/marchés/guide-du-marché-luino-avec-carte-et-conseils-utiles",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/marchés/marche-luino",
+    "to": "/fr/lac-maggiore/marchés/guide-du-marché-luino-avec-carte-et-conseils-utiles",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-di-como/prodotti/guida-alle-migliori-ville-sul-lago-di-como-con-mappa-dettagliata",
+    "to": "/it/lago-di-como/guida-alle-migliori-ville-sul-lago-di-como-con-mappa-dettagliata",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-di-como/ville",
+    "to": "/it/lago-di-como/guida-alle-migliori-ville-sul-lago-di-como-con-mappa-dettagliata",
+    "status": 302
+  },
+  {
+    "from": "/de/comersee/produkte/guide-zu-den-besten-villen-am-comer-see-mit-detaillierter-karte",
+    "to": "/de/comersee/guide-zu-den-besten-villen-am-comer-see-mit-detaillierter-karte",
+    "status": 302
+  },
+  {
+    "from": "/de/comersee/villen",
+    "to": "/de/comersee/guide-zu-den-besten-villen-am-comer-see-mit-detaillierter-karte",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-como/products/guide-to-the-best-villas-on-lake-como-with-detailed-map",
+    "to": "/en/lake-como/guide-to-the-best-villas-on-lake-como-with-detailed-map",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-como/villas",
+    "to": "/en/lake-como/guide-to-the-best-villas-on-lake-como-with-detailed-map",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-de-como/produits/guide-des-meilleures-villas-sur-le-lac-de-côme-avec-carte-detaillée",
+    "to": "/fr/lac-de-como/guide-des-meilleures-villas-sur-le-lac-de-côme-avec-carte-detaillée",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-de-como/villas",
+    "to": "/fr/lac-de-como/guide-des-meilleures-villas-sur-le-lac-de-côme-avec-carte-detaillée",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-di-garda/prodotti/guida-pratica-al-lago-di-garda-principali-attrazioni-e-attività",
+    "to": "/it/lago-di-garda/attrazioni",
+    "status": 302
+  },
+  {
+    "from": "/de/gardasee/produkte/praktischer-führer-zu-den-hauptattraktionen-und-aktivitäten-am-gardasee",
+    "to": "/de/gardasee/sehenswuerdigkeiten",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-garda/products/practical-guide-to-lake-garda-main-attractions-and-activities",
+    "to": "/en/lake-garda/attractions",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-de-garda/produits/guide-pratique-du-lac-de-garde-principales-attractions-et-activites",
+    "to": "/fr/lac-de-garda/attractions",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/products/guide-navigation-lake-maggiore-with-map-and-timetables-designed-by-valpiccola",
+    "to": "/en/lake-maggiore/navigation",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/produkte/guide-navigation-see-maggiore-mit-karte-und-fahrplänen-entworfen-von-valpiccola",
+    "to": "/de/lago-maggiore/schifffahrt",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/produits/navigation-guide-lago-maggiore-avec-carte-et-orars-réalisés-par-valpiccola",
+    "to": "/fr/lac-maggiore/navigation",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/prodotti/guida-navigazione-lago-maggiore-con-mappa-ed-orari-realizzata-da-valpiccola",
+    "to": "/it/lago-maggiore/navigazione",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-di-como/prodotti/guida-migliori-spiagge-lago-di-como-con-mappa-e-recensioni",
+    "to": "/it/lago-di-como/guida-migliori-spiagge-lago-di-como-con-mappa-e-recensioni",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-di-como/spiagge",
+    "to": "/it/lago-di-como/guida-migliori-spiagge-lago-di-como-con-mappa-e-recensioni",
+    "status": 302
+  },
+  {
+    "from": "/de/comersee/produkte/führer-beste-strände-comer-see-mit-karte-und-bewertungen",
+    "to": "/de/comersee/produkte/führer-beste-strände-comer-see-mit-karte-und-bewertungen",
+    "status": 302
+  },
+  {
+    "from": "/de/comersee/straende",
+    "to": "/de/comersee/produkte/führer-beste-strände-comer-see-mit-karte-und-bewertungen",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-como/products/guide-best-beaches-lake-como-with-map-and-reviews",
+    "to": "/en/lake-como/guide-best-beaches-lake-como-with-map-and-reviews",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-como/beaches",
+    "to": "/en/lake-como/guide-best-beaches-lake-como-with-map-and-reviews",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-de-como/produits/guide-meilleures-plages-lac-de-como-avec-carte-et-avis",
+    "to": "/fr/lac-de-como/guide-meilleures-plages-lac-de-como-avec-carte-et-avis",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-de-como/plages",
+    "to": "/fr/lac-de-como/guide-meilleures-plages-lac-de-como-avec-carte-et-avis",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/prodotti/guida-completa-alle-principali-attrazioni-del-lago-maggiore",
+    "to": "/it/lago-maggiore/attrazioni",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/produkte/vollständiger-reiseführer-zu-den-wichtigsten-sehenswürdigkeiten-des-lago-maggiore",
+    "to": "/de/lago-maggiore/sehenswuerdigkeiten",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/products/complete-guide-to-the-main-attractions-of-lake-maggiore",
+    "to": "/en/lake-maggiore/attractions",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-maggiore/produits/guide-complet-des-principales-attractions-du-lac-majeur",
+    "to": "/fr/lac-maggiore/attractions",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-di-garda/prodotti/guida-migliori-spiagge-lago-di-garda-con-mappa-e-recensioni",
+    "to": "/it/lago-di-garda/guida-migliori-spiagge-lago-di-garda-con-mappa-e-recensioni",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-di-garda/spiagge",
+    "to": "/it/lago-di-garda/guida-migliori-spiagge-lago-di-garda-con-mappa-e-recensioni",
+    "status": 302
+  },
+  {
+    "from": "/de/gardasee/produkte/führer-der-besten-strände-am-gardasee-mit-karten-und-bewertungen",
+    "to": "/de/gardasee/führer-der-besten-strände-am-gardasee-mit-karten-und-bewertungen",
+    "status": 302
+  },
+  {
+    "from": "/de/gardasee/straende",
+    "to": "/de/gardasee/führer-der-besten-strände-am-gardasee-mit-karten-und-bewertungen",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-garda/products/guide-best-beaches-lake-garda-with-map-and-reviews",
+    "to": "/en/lake-garda/guide-best-beaches-lake-garda-with-map-and-reviews",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-garda/beaches",
+    "to": "/en/lake-garda/guide-best-beaches-lake-garda-with-map-and-reviews",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-de-garda/produits/guide-des-meilleures-plages-du-lac-de-garda-avec-carte-et-revues",
+    "to": "/fr/lac-de-garda/guide-des-meilleures-plages-du-lac-de-garda-avec-carte-et-revues",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-de-garda/plages",
+    "to": "/fr/lac-de-garda/guide-des-meilleures-plages-du-lac-de-garda-avec-carte-et-revues",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-maggiore/prodotti",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/lago-maggiore/produkte",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-maggiore/products",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-majeur/produits",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-di-como/prodotti",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/comersee/produkte",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-como/products",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-de-como/produits",
+    "to": "/fr",
+    "status": 302
+  },
+  {
+    "from": "/it/lago-di-garda/prodotti",
+    "to": "/it",
+    "status": 302
+  },
+  {
+    "from": "/de/gardasee/produkte",
+    "to": "/de",
+    "status": 302
+  },
+  {
+    "from": "/en/lake-garda/products",
+    "to": "/en",
+    "status": 302
+  },
+  {
+    "from": "/fr/lac-de-garda/produits",
+    "to": "/fr",
+    "status": 302
+  }
+]

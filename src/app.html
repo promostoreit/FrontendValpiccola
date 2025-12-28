@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="%lang%" data-theme="valpiccola">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+    <meta name="viewport" content="width=device-width" />
+    <!--
+    <script type="text/javascript">
+      (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+      })(window, document, "clarity", "script", "hx0d8wnd8s");
+    </script>
+    -->
+    <script>
+      let email = 'info@valpiccola.com';
+      let args = [
+        `%c Do you have any feedback for us? ${email}`,
+        'background: #127D40; color: #012C3D; padding: 15px; font-size: 1.2em; font-weight: bold;'
+      ];
+      window.console.log.apply( console, args );
+    </script>
+    <script src="https://js.stripe.com/v3/"></script>
+    %sveltekit.head%
+	</head>
+  <body class="bg-white">
+		<div>%sveltekit.body%</div>
+	</body>
+</html>
